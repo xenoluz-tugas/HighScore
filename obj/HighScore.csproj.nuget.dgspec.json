@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\Highscore\\HighScore.csproj": {}
+    "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\HighScore\\HighScore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\Highscore\\HighScore.csproj": {
+    "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\HighScore\\HighScore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\Highscore\\HighScore.csproj",
+        "projectUniqueName": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\HighScore\\HighScore.csproj",
         "projectName": "HighScore",
-        "projectPath": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\Highscore\\HighScore.csproj",
+        "projectPath": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\HighScore\\HighScore.csproj",
         "packagesPath": "C:\\Users\\Az\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\Highscore\\obj\\",
+        "outputPath": "C:\\Users\\Az\\Documents\\Mapel\\Programming\\ARRAY\\HighScore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Az\\AppData\\Roaming\\NuGet\\NuGet.Config"
